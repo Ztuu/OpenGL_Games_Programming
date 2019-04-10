@@ -3,3 +3,5 @@
 ![](Gifs/fullgif.gif)
 ### Flocking Boids
 ![](Gifs/flockinggif.gif)
+### Pathfinding
+![](Gifs/graph.jpg)![](Gifs/pathfinding.PNG)
